@@ -678,13 +678,4 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-    element.style{
-    }
-    .social {
-        text-align: center;
-        background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)),url(profile2.jpg);
-        background-size: auto;
-        height: 60vh;
-        width: 100%;
-    }
 }
