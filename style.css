@@ -376,10 +376,10 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "lets get connected";
 }
 .teams .carousel .card{
-    background: #222;
+    background:brown;
     border-radius: 6px;
     padding: 25px 35px;
     text-align: center;
@@ -387,7 +387,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: red;
 }
 .teams .carousel .card .box{
     display: flex;
