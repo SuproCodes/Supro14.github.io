@@ -666,9 +666,9 @@ footer span a:hover{
     .contact .right form .fields{
         flex-direction: column;
     }
-    .contact .right form .name,
-    .contact .right form .email{
-        margin: 0;
+    .contact {
+        margin-left: auto;
+        margin-right: auto;
     }
     .scroll-up-btn{
         right: 15px;
